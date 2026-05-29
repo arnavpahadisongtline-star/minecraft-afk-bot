@@ -13,7 +13,7 @@ app.listen(3000, () => {
 
 const config = {
   host: 'McByte.aternos.me',
-  port::49365,
+  port: 49365,
   username: 'Solvix_AFK_BOT',
   password: 'mypass@123'
 }
